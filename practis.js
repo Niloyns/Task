@@ -44,8 +44,4 @@ function concatenateArray() {
   console.log([...arr, ...newArr]);
 }
 
-PrintDeveloperbyMap();
-PrintDeveloperbyForEach();
-addData();
-removeAdmin();
-concatenateArray();
+
